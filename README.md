@@ -6,7 +6,7 @@ STM32微控制器的可定制引导加载程序。本项目包括各种硬件的
 
 **更新:**“STM32L496-Discovery”示例支持使用GNU Arm嵌入式工具链(Arm GCC)开箱即用编译和构建项目，除了IAR EWARM。请查看项目README以获得更多信息。
 
-Please refer to <https://akospasztor.github.io/stm32-bootloader> for complete documentation of the bootloader library source code.
+请参考<https://akospasztor.github。Io /stm32-bootloader>获取引导加载程序库源代码的完整文档。
 
 ![Build Status](https://dev.azure.com/akospasztor/stm32-bootloader/_apis/build/status/akospasztor.stm32-bootloader?branchName=master)
 
