@@ -1,10 +1,10 @@
 # STM32 Bootloader
 
-Customizable Bootloader for STM32 microcontrollers. This project includes demonstrations for various hardware how to perform in-application-programming of a firmware located on external SD card with FAT32 file system.
+STM32微控制器的可定制引导加载程序。本项目包括各种硬件的演示，如何执行位于外部SD卡与FAT32文件系统的固件的应用程序编程。
 
-Each example uses the same bootloader library located in the `lib/stm32-bootloader` folder. The examples are located in the `projects` folder and they come with a separate, dedicated README file with description related to that specific implementation.
+每个示例都使用位于' lib/stm32-bootloader '文件夹中的相同引导加载程序库。示例位于“projects”文件夹中，它们带有一个单独的、专用的README文件，其中有与特定实现相关的描述
 
-**Update:** the `STM32L496-Discovery` example supports compiling and building the project with the GNU Arm Embedded Toolchain (ARM GCC) out-of-the-box, in addition to IAR EWARM. Check out the project README for further information.
+**更新:**“STM32L496-Discovery”示例支持使用GNU Arm嵌入式工具链(Arm GCC)开箱即用编译和构建项目，除了IAR EWARM。请查看项目README以获得更多信息。
 
 Please refer to <https://akospasztor.github.io/stm32-bootloader> for complete documentation of the bootloader library source code.
 
